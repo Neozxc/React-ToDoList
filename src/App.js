@@ -18,7 +18,7 @@ const App = () => {
       // We go through the array with: ( ... ) - spread notation
       ...todos,
       {
-        // We add + 1 to the array and set text to an hook
+        // We add +1 to todos list as an id
         id: todos.length + 1,
         text: todo,
         // This is for later use to cross out the text
