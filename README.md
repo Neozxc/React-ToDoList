@@ -7,3 +7,10 @@
 <p align="center" /> You can ADD new items to the list.
 <p align="center" /> You can REMOVE items from the list.
 <p align="center" /> If you click on the item it will cross it out.
+
+<p align="center">
+  > <a align="center" href="https://todolistreact2022.netlify.app/" title="Issues">Check out Live server Here!</a> <
+</p>
+
+------
+
